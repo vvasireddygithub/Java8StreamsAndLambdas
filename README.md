@@ -8,15 +8,15 @@ sports - sports they played.
 
 studentID	studentName	START_DATE	END_DATE
 
-1	John	1-Dec-14	30-Dec-18
+1 ,	John	,	1-Dec-14	,	30-Dec-18
 
-2	Denise	1-Dec-12	15-Dec-16
+2	,	Denise	,	1-Dec-12	,	15-Dec-16
 
-3	Brendan	1-Dec-18	30-Dec-22
+3	,	Brendan	,	1-Dec-18	,	30-Dec-22
 
-4	Spark	1-Dec-19	30-Dec-23
+4	,	Spark	,	1-Dec-19	,	30-Dec-23
 
-5	Vis	1-Dec-12	30-Dec-16
+5	,	Vis	1-Dec-12,		30-Dec-16
 
 
 
@@ -24,17 +24,17 @@ studentID	studentName	START_DATE	END_DATE
 
 sportID	studentID	studentID
 
-1	1	Footbal
+1,		1,		Footbal
 
-2	2	Soccer
+2	,	2,		Soccer
 
-3	3	Baseball
+3,		3,		Baseball
 
-4	2	Fencing
+4	,	2	,	Fencing
 
-5	5	Wrestling
+5	,	5	,	Wrestling
 
-6	3	Tennis
+6	,	3	,	Tennis
 
 
 1) Find all current students - current date should be between high school start date and end date
