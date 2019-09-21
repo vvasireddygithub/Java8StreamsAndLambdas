@@ -28,9 +28,7 @@ public class SportsManager {
 		}
 	}
 
-	public static ArrayList<Sport> getBanners() {
-		return SPORTS;
-	}
+
 
 	public static Sport getSportByStudentID(int studentID) {
 
