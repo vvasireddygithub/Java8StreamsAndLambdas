@@ -5,7 +5,9 @@ students.csv - Students at high school - with they year start and year end - Kee
 sports - sports they played.
 
 =========== Students.csv=========
+
 studentID	studentName	START_DATE	END_DATE
+
 1	John	1-Dec-14	30-Dec-18
 2	Denise	1-Dec-12	15-Dec-16
 3	Brendan	1-Dec-18	30-Dec-22
@@ -16,6 +18,7 @@ studentID	studentName	START_DATE	END_DATE
 ========== sports.csv=======
 
 sportID	studentID	studentID
+
 1	1	Footbal
 2	2	Soccer
 3	3	Baseball
